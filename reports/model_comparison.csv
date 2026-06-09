@@ -1,0 +1,4 @@
+Model,Accuracy
+Naive Bayes (CountVec),0.9670542635658915
+SVM (TF-IDF),0.9806201550387597
+Logistic Regression,0.9534883720930233
