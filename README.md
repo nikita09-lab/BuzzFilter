@@ -1,4 +1,4 @@
-# Spam-Classifier
+# Buzz Filter
 
 file structure
 
